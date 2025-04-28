@@ -1,11 +1,14 @@
-# Hi there, I'm Sami Shareb 👋
+# Hi there, I'm Sami Shareb 👋 <img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+
+
 
 🎓 **Software Engineer** | Final Year University Student  
 💻 Passionate about **Web & Mobile Development**  
 🔍 Skilled in **SDLC** and **System Analysis & Design**
 
 
-<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 
 ---
 
