@@ -69,11 +69,9 @@ I enjoy building web and mobile applications, always striving to deliver clean, 
 
 Here you can find some of my featured projects:
 
-- 🚀 [Project 1 Name](#) — Short description.
-- 🚀 [Project 2 Name](#) — Short description.
-- 🚀 [Project 3 Name](#) — Short description.
+will be placed here soon ... 
 
-(*Replace the `#` with your actual project links!*)
+
 
 <br>
 
@@ -95,9 +93,9 @@ Here you can find some of my featured projects:
 
 ## 📫 How to Reach Me
 
-- 📧 Email: [your.email@example.com]
-- 💼 LinkedIn: [your-linkedin-profile]
-- 🌐 Portfolio: [your-portfolio-link]
+- 📧 Email: samsharep70@gmail.com
+- 💼 LinkedIn: will be placed soon ...
+- 🌐 Portfolio: will be placed soon ...
 
 <br>
 
